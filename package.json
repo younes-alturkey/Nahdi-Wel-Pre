@@ -1,8 +1,8 @@
 {
-  "name": "reveal.js",
+  "name": "Welcome to NMC",
   "version": "4.1.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
+  "description": "Nahdi Welcome Presentation",
+  "homepage": "https://alturkeydev.github.io/Nahdi-Wel-Pre/",
   "subdomain": "revealjs",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
