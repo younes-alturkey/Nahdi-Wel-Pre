@@ -3,7 +3,7 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
- @media only screen and (max-width: 600px) {
+ /* @media only screen and (max-width: 600px) {
    .reveal {
      display: none;
    }
@@ -13,7 +13,7 @@
   .mobile {
     display: none;
   }
-}
+} */
 
 @import url(./fonts/source-sans-pro/source-sans-pro.css);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
