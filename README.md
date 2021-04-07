@@ -8,7 +8,7 @@ https://younes-alturkey.github.io/nahdi-wel-pre/
 
 # Nahdi Welcome Presentation Prototype
 
-![Logo](https://github.com/younes-alturkey/nahdi-mobile-rn-algolia/blob/master/nahdi-logo.png)
+![Logo](https://github.com/younes-alturkey/nahdi-wel-pre/blob/gh-pages/demo.gif)
 
 <ul>
 <li>HTML Presentation</li>
