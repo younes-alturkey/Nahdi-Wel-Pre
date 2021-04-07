@@ -8,10 +8,12 @@ https://younes-alturkey.github.io/nahdi-wel-pre/
 
 # Nahdi Welcome Presentation Prototype
 
+![Logo](https://github.com/younes-alturkey/nahdi-mobile-rn-algolia/blob/master/nahdi-logo.png)
+
 <ul>
 <li>HTML Presentation</li>
 <li>Built using Reveal.js framework</li>
-<li>Content was also developed</li>
+<li>Content was also supplied with the project</li>
 </ul>
 
 # Supervison By
