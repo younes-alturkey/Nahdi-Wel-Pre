@@ -4,7 +4,7 @@ https://younes-alturkey.github.io/nahdi-wel-pre/
 
 # Live Demo
 
-![Live Demo](https://github.com/younes-alturkey/nahdi-wel-pre/blob/gh-pages/demo.gif)
+<img src="https://github.com/younes-alturkey/nahdi-wel-pre/blob/gh-pages/demo.gif"/>
 
 # Nahdi Welcome Presentation Prototype
 
